@@ -4,6 +4,9 @@ Keep in mind this was a semester long project and the program is filled with bug
 This repo contains all of the source files and the JARs for the executible programs. The JARs SHOULD be able to run without installing OpenCV (I hope)
 Use the sample image file located in the folders or an image inside one of the images folder to test out the program (if you want).
 
+# What I Did
+Most of my work on this project was the work on the image processing part of the program. The character reconition, output and input prep, etc. was done by different members of our group.
+
 # Where is everything?
 The CommandLineProgram ane the GUIPRogram folders contain all of the source files for the program.
 The Executable folder contains the JARs and all of the files required to run the program as well as the documentation.
