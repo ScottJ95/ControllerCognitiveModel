@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Aircraft List>
+    <Aircraft>
+        <Center Location>
+            <x>1821.0</x>
+            <y>1505.5</y>
+        </Center Location>
+        <Possible Error>false</Possible Error>
+    </Aircraft>
+    <Aircraft>
+        <Callsign>SWA3073</Callsign>
+        <Current Altitude>280</Current Altitude>
+        <Assigned Altitute>280</Assigned Altitute>
+        <Center Location>
+            <x>1781.5</x>
+            <y>768.5</y>
+        </Center Location>
+        <Possible Error>false</Possible Error>
+    </Aircraft>
+    <Aircraft>
+        <Callsign>SKW1110</Callsign>
+        <Current Altitude>350</Current Altitude>
+        <Assigned Altitute>350</Assigned Altitute>
+        <Center Location>
+            <x>528.0</x>
+            <y>401.0</y>
+        </Center Location>
+        <Possible Error>false</Possible Error>
+    </Aircraft>
+    <Aircraft>
+        <Callsign>NWA3534</Callsign>
+        <Current Altitude>270</Current Altitude>
+        <Assigned Altitute>270</Assigned Altitute>
+        <Center Location>
+            <x>852.5</x>
+            <y>166.5</y>
+        </Center Location>
+        <Possible Error>false</Possible Error>
+    </Aircraft>
+    <Aircraft>
+        <Callsign>AAL258</Callsign>
+        <Current Altitude>290</Current Altitude>
+        <Assigned Altitute>290</Assigned Altitute>
+        <Center Location>
+            <x>478.0</x>
+            <y>167.0</y>
+        </Center Location>
+        <Possible Error>false</Possible Error>
+    </Aircraft>
+    <Aircraft>
+        <Callsign>CAA3006</Callsign>
+        <Current Altitude>10</Current Altitude>
+        <Center Location>
+            <x>504.69683837890625</x>
+            <y>122.20079040527344</y>
+        </Center Location>
+        <Possible Error>false</Possible Error>
+    </Aircraft>
+    <Aircraft>
+        <Callsign>FDX010</Callsign>
+        <ID>175</ID>
+        <Current Altitude></Current Altitude>
+        <Assigned Altitute>260</Assigned Altitute>
+        <Ascending or Descending>DSC</Ascending or Descending>
+        <Ground Speed>452X5</Ground Speed>
+        <Center Location>
+            <x>1755.0</x>
+            <y>1615.5</y>
+        </Center Location>
+        <Extra Characters>&lt; at index 6 of callsign</Extra Characters>
+        <Possible Error>false</Possible Error>
+    </Aircraft>
+    <Aircraft>
+        <Callsign>DAL1974</Callsign>
+        <ID>173</ID>
+        <Current Altitude>255</Current Altitude>
+        <Assigned Altitute>280</Assigned Altitute>
+        <Ascending or Descending>ASC</Ascending or Descending>
+        <Ground Speed>423</Ground Speed>
+        <Center Location>
+            <x>1280.4713134765625</x>
+            <y>1606.376953125</y>
+        </Center Location>
+        <Possible Error>false</Possible Error>
+    </Aircraft>
+    <Aircraft>
+        <Callsign>NWA259</Callsign>
+        <ID>17Y</ID>
+        <Current Altitude> 82</Current Altitude>
+        <Assigned Altitute>240</Assigned Altitute>
+        <Ascending or Descending>DSC</Ascending or Descending>
+        <Ground Speed>460</Ground Speed>
+        <Center Location>
+            <x>1526.8865966796875</x>
+            <y>1570.9176025390625</y>
+        </Center Location>
+        <Extra Characters>&lt; at index 6 of callsign</Extra Characters>
+        <Possible Error>false</Possible Error>
+    </Aircraft>
+    <Aircraft>
+        <Callsign>UAL3326</Callsign>
+        <ID>174</ID>
+        <Current Altitude>280C</Current Altitude>
+        <Assigned Altitute>280C</Assigned Altitute>
+        <Ascending or Descending>At assigned alt</Ascending or Descending>
+        <Ground Speed>501</Ground Speed>
+        <Center Location>
+            <x>1227.4713134765625</x>
+            <y>1431.3770751953125</y>
+        </Center Location>
+        <Extra Characters>&lt; at index 7 of callsign</Extra Characters>
+        <Possible Error>false</Possible Error>
+    </Aircraft>
+    <Aircraft>
+        <Callsign>280C</Callsign>
+        <ID>Y</ID>
+        <Current Altitude>452</Current Altitude>
+        <Assigned Altitute>182</Assigned Altitute>
+        <Ascending or Descending>DSC</Ascending or Descending>
+        <Ground Speed>Y</Ground Speed>
+        <Center Location>
+            <x>1200.0</x>
+            <y>1210.5</y>
+        </Center Location>
+        <Possible Error>true</Possible Error>
+    </Aircraft>
+    <Aircraft>
+        <Callsign>190405</Callsign>
+        <Center Location>
+            <x>1638.1141357421875</x>
+            <y>1072.305419921875</y>
+        </Center Location>
+        <Extra Characters>&lt; at index 0 of callsign</Extra Characters>
+        <Possible Error>true</Possible Error>
+    </Aircraft>
+    <Aircraft>
+        <Callsign>NWA3445</Callsign>
+        <ID>212</ID>
+        <Current Altitude>240C</Current Altitude>
+        <Assigned Altitute>240C</Assigned Altitute>
+        <Ascending or Descending>At assigned alt</Ascending or Descending>
+        <Ground Speed>G412</Ground Speed>
+        <Center Location>
+            <x>904.0</x>
+            <y>1489.5</y>
+        </Center Location>
+        <Extra Characters>&lt; at index 7 of callsign</Extra Characters>
+        <Possible Error>false</Possible Error>
+    </Aircraft>
+    <Aircraft>
+        <Callsign>290C</Callsign>
+        <Current Altitude>G430</Current Altitude>
+        <Assigned Altitute>217</Assigned Altitute>
+        <Ascending or Descending>DSC</Ascending or Descending>
+        <Center Location>
+            <x>876.0</x>
+            <y>1042.5</y>
+        </Center Location>
+        <Possible Error>true</Possible Error>
+    </Aircraft>
+    <Aircraft>
+        <Callsign>3329</Callsign>
+        <ID>R214</ID>
+        <Current Altitude>288</Current Altitude>
+        <Assigned Altitute>390</Assigned Altitute>
+        <Ascending or Descending>ASC</Ascending or Descending>
+        <Ground Speed>457</Ground Speed>
+        <Center Location>
+            <x>1625.18994140625</x>
+            <y>584.3670043945312</y>
+        </Center Location>
+        <Possible Error>false</Possible Error>
+    </Aircraft>
+</Aircraft List>

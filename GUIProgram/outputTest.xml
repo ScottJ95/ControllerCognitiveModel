@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Flights>
+    <Flight Callsign="N378FS">
+        <Ascending or Descending>ASC</Ascending or Descending>
+        <Assigned Altitute>400</Assigned Altitute>
+        <Current Altitude>300</Current Altitude>
+        <Ground Speed>88</Ground Speed>
+        <ID>242</ID>
+    </Flight>
+    <Flight Callsign="NWA3445">
+        <Ascending or Descending>DES</Ascending or Descending>
+        <Assigned Altitute>200</Assigned Altitute>
+        <Current Altitude>10</Current Altitude>
+        <Ground Speed>14</Ground Speed>
+        <ID>753</ID>
+    </Flight>
+</Flights>

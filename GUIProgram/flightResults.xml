@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Flights>
+    <Flight Callsign="N378FS">
+        <Air Speed>98</Air Speed>
+        <Ascending Speed>98</Ascending Speed>
+        <dataBlockImage>image</dataBlockImage>
+        <Descending Speed>0</Descending Speed>
+        <Ground Speed>88</Ground Speed>
+        <Model>B787</Model>
+        <VectorLine>190 degrees south of west</VectorLine>
+        <Altitude>80</Altitude>
+    </Flight>
+    <Flight Callsign="DAL353">
+        <Air Speed>140</Air Speed>
+        <Ascending Speed>0</Ascending Speed>
+        <dataBlockImage>image</dataBlockImage>
+        <Descending Speed>140</Descending Speed>
+        <Ground Speed>130</Ground Speed>
+        <Model>B777</Model>
+        <VectorLine>60 degrees north of east</VectorLine>
+        <Altitude>230</Altitude>
+    </Flight>
+</Flights>
